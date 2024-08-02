@@ -94,6 +94,8 @@ public class JsonPathExample {
 		//comment on branch testConflict 
 	
 		//comment pe master branch 
+		
+		//another comment
 	}
 	
 }
